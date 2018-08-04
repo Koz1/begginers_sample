@@ -1,3 +1,4 @@
+"""「初めてのPython活用術」のエディタ作成"""
 from tkinter import Tk, Button, filedialog
 from tkinter.scrolledtext import ScrolledText
 import tkinter
